@@ -4,6 +4,9 @@
 allows you to serve custom error pages in a rails app that have been precompiled by the
 rails asset pipeline as static files.
 
+Example app using this buildpack:
+https://github.com/johnboyes/rails-heroku-custom-error-pages
+
 See https://medium.com/@tair/custom-error-pages-in-rails-you-re-doing-it-wrong-ba1d20ec31c0
 
 ## Set up
